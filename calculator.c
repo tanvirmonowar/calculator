@@ -2,7 +2,7 @@
 int main()
 {	double a,b;
 	char c;
-	printf("Enter two number:");
+	printf("Please enter two number:");
 	scanf("%lf %lf",&a,&b);
 	printf("Enter an operator:");
 	scanf(" %c",&c);
